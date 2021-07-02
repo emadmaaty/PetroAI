@@ -6,3 +6,7 @@ PetroAI Website
 - [x] Data analysis.
 - [ ] Code structure.
 - [ ] New features :tada:
+
+:+1:
+:robot:
+:egypt:
